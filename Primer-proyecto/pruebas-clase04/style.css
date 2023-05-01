@@ -1,0 +1,33 @@
+
+/* @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300&display=swap'); */
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* .clase2 {
+    font-size: 46px;
+    color: red;
+    /* font-family: 'Roboto Slab', serif; 
+}
+.clase1 .clase2 {
+    color: green;
+}   */
+
+/* OVERFLOW */
+.clase1{
+    height: 250px;
+    width: 200px;
+    border: 2px solid black;
+    overflow: hidden;
+    padding: 20px;
+    margin: 20px;
+    /* overflow-y: hidden;
+       overflow-x: auto; */
+} 
+
+p{
+    border: 2px solid red;
+    padding: 25px;
+}
